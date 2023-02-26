@@ -1,11 +1,3 @@
-/*********************************************ERRORS****************************************/
-// IF CAR IS PARKED ONLY CAR WILL BE ABLE TO EXIT ==> done
-//  NOT ANY OTHER VEHICLE ==> done
-//  EXITING AS MANY VEHICLE BUT TOTAL SLOTS SHOULD NOT INCREASE ==> done
-// giving two coomand shows error ==> done
-// char value makes loop infinite ==> done
-/******************************************************************************************/
-
 #include <iostream>
 using namespace std;
 int total_parking = 10;
